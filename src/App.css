@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.form-container{
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px auto;
+  gap: 20px;
+  border: 1px solid rgb(170, 159, 159);
+  padding: 50px;
+  border-radius: 10px;
+  font-size: 26px;
+}
+
+.form-container input{
+  border-radius: 8px;
+  border: 1px solid grey;
+  padding: 8px;
+  width: 100%;
+}
